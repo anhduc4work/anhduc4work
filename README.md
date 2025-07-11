@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm passionate about technology, learning, and solving rea
 
 Here are some of the projects I’ve worked on (check out my pinned repos for more!):
 
-- **[cv-bot-agent](https://github.com/anhduc4work/cv-bot-agent):**  
+- **[cv-bot-agent](https://github.com/anhduc4work/career_agent_reorganized):**  
   An intelligent CV analysis agent with multi-step reasoning using LangChain and OpenAI.
 
 ---
